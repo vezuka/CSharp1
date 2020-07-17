@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Csharp_learning\Zaitseva_Daria_lesson7\Guess\bin\Debug\Guess.exe.config
+C:\Users\User\Documents\Csharp_learning\Zaitseva_Daria_lesson7\Guess\bin\Debug\Guess.exe
+C:\Users\User\Documents\Csharp_learning\Zaitseva_Daria_lesson7\Guess\bin\Debug\Guess.pdb
+C:\Users\User\Documents\Csharp_learning\Zaitseva_Daria_lesson7\Guess\obj\Debug\Guess.csprojAssemblyReference.cache
+C:\Users\User\Documents\Csharp_learning\Zaitseva_Daria_lesson7\Guess\obj\Debug\Guess.Form1.resources
+C:\Users\User\Documents\Csharp_learning\Zaitseva_Daria_lesson7\Guess\obj\Debug\Guess.Properties.Resources.resources
+C:\Users\User\Documents\Csharp_learning\Zaitseva_Daria_lesson7\Guess\obj\Debug\Guess.csproj.GenerateResource.cache
+C:\Users\User\Documents\Csharp_learning\Zaitseva_Daria_lesson7\Guess\obj\Debug\Guess.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Csharp_learning\Zaitseva_Daria_lesson7\Guess\obj\Debug\Guess.exe
+C:\Users\User\Documents\Csharp_learning\Zaitseva_Daria_lesson7\Guess\obj\Debug\Guess.pdb
+C:\Users\User\Documents\Csharp_learning\Zaitseva_Daria_lesson7\Guess\obj\Debug\Guess.Form2.resources
